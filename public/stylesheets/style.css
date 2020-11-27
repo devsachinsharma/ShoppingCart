@@ -1,0 +1,13 @@
+.thumbnail {
+
+}
+
+.thumbnail .description {
+    color: #7f7f7f;
+    text-align: justify;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 16px;
+}
