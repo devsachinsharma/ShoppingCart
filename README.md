@@ -11,5 +11,4 @@
 ![Login](./public/login.jpg)
 
 # How to Set-Up the Project
-
-# How to Contribute
+You can use Docker to run the project or you can run it using `node app.js`
