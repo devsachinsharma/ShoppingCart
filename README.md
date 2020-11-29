@@ -1,6 +1,6 @@
 # ShoppingCart using NodeJS, Express, MongoDB
 
-# About the project
+# About the Project
 
 # Screenshots
 ## Dashboard
@@ -10,6 +10,6 @@
 ## Login
 ![Login](./public/login.jpg)
 
-# How to Set-Up the project
+# How to Set-Up the Project
 
-# How to contribute
+# How to Contribute
