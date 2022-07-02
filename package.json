@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kunal-kushwaha/ShoppingCart"
+    "url": "git+https://github.com/devsachinsharma/ShoppingCart"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kunal-kushwaha/ShoppingCart/issues"
+    "url": "https://github.com/devsachinsharma/ShoppingCart/issues"
   },
-  "homepage": "https://github.com/kunal-kushwaha/ShoppingCart#readme",
+  "homepage": "https://github.com/devsachinsharma/ShoppingCart#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "bcryptjs": "^2.4.3",
@@ -30,6 +30,7 @@
     "express-session": "^1.15.6",
     "hbs": "~4.0.1",
     "http-errors": "~1.6.2",
+    "mongodb": "^4.7.0",
     "mongoose": "^5.4.22",
     "morgan": "~1.9.0",
     "passport": "^0.4.0",
